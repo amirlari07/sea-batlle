@@ -1,1 +1,1 @@
-print("اینو میبینی؟")
+print("Hja kahkd")
