@@ -1,1 +1,1 @@
-print('dish')
+print("یاد بگیرید")
